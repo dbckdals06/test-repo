@@ -1,3 +1,3 @@
-name="유창만"
-student_number="202403617"
-major="자율전공학부"
+name="유창민"
+student_number="202503617"
+major="컴공"
